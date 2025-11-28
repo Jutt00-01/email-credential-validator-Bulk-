@@ -9,7 +9,7 @@ A Python automation tool for parallel testing of email credentials. Built for ed
 
 ---
 
-## 🎯 Features
+# 🎯 Features
 
 - ✅ **Parallel Testing** - Test multiple email accounts simultaneously (configurable 1-50+)
 - ✅ **Multi-Provider Support** - Gmail, Outlook, Hotmail, Yahoo, and custom domains
