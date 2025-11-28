@@ -354,8 +354,8 @@ This tool is provided for **educational and authorized testing purposes only**.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [Jutt00-01](https://github.com/Jutt00-01)
+- Email: sjsargana@example.com
 - Learning: Cybersecurity & Python Automation
 
 **Built with:** Claude AI + Selenium + Python
